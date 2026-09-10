@@ -1,0 +1,14 @@
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.jks
+credentials*
+node_modules/
+dist/
+build/
+target/
+.venv/
+venv/
+__pycache__/
